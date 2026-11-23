@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🍛 Simple Order
+#  Simple Order
 
 **A Dart console program that prints a canteen order receipt.**
 
@@ -12,16 +12,16 @@
 
 ---
 
-## 👤 Author
+##  Author
 
 | | |
 |---|---|
-| **Name** | Ash |
+| **Name** | Arnold Dela Cruz|
 | **Section** | BSIT251D, National University Laguna |
 | **Course** | MOBPROG, Mobile App Development (Flutter) |
 | **Exercise** | Lab 01a: Dart Warm-Up |
 
-## ✨ What it does
+##  What it does
 
 - Stores the menu in a `const` map
 - Models each order line with an `OrderItem` class (`final` fields and a `subtotal` getter)
@@ -29,7 +29,7 @@
 - Prints `Guest` when no customer name is given
 - Gives **10% off** when the subtotal is 300 or more
 
-## 🍽️ Menu
+##  Menu
 
 | Item | Price |
 |---|---|
@@ -37,7 +37,7 @@
 | Iced tea | ₱35.00 |
 | Turon | ₱25.00 |
 
-## 🧾 Sample output
+##  Sample output
 
 **Order 1: no customer name, discount applies**
 
@@ -61,8 +61,3 @@ Subtotal  120.00
 Total  120.00
 ```
 
-## ▶️ How to run
-
-```bash
-dart run
-```
