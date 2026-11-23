@@ -19,7 +19,7 @@
 | | |
 |---|---|
 | **Name** | Arnold Dela Cruz|
-| **Section** | BSIT251D, National University Laguna |
+| **Section** | BSIT251D |
 | **Course** | MOBPROG, Mobile App Development (Flutter) |
 | **Exercise** | Lab 01a: Dart Warm-Up |
 
