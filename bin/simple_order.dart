@@ -67,4 +67,3 @@ void main() {
   ];
   printReceipt(second, customer: 'Ana');
 }
-// idk what im doing :sob:
